@@ -25,7 +25,7 @@ This project analyzes S&P 500 stock data using:
 * Correlated sentiment with price movement
 
 ## 🛠️ Tools Used
-* Python (Pandas)
+* Python
 * MySQL
 * Power BI
 
